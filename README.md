@@ -2,7 +2,7 @@
 
 ## Section A : Logical Programming Questions
 
-- Question 1: Display the diagonal pattern for the string of odd length. **diagonalPattern**
+- Question 1: Display the diagonal pattern for the string of odd length. **"diagonalPattern.cpp"**
 - Question 3: Print the largest possible for the given string. **largestStringPossible**
 - Question 5: Check whether the given string has characters of equal difference or unequal difference. **EqualUnequaldifference**
 - Question 7: Print the distinct words in the given string. **distinctWords**
